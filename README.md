@@ -1,10 +1,10 @@
 # tbd_Tech-a-Thon
 Making Navigation  in Maps easier for visually Impaired
 
-Description
+Description:
 This web application integrates OpenStreetMap with voice commands to provide navigation assistance. It allows users to input or speak their starting location and destination, and receive simple driving directions along with approximate travel times.
 
-Features
+Features:
 Interactive map of Coimbatore, Tamil Nadu, India.
 Voice recognition for entering starting and destination locations.
 Text-to-Speech for reading out directions and additional information.
@@ -27,6 +27,7 @@ Leaflet.js
 Leaflet Routing Machine
 Leaflet Control Geocoder
 Web Speech API
-Prerequisites
+
+Prerequisites:
 Modern web browser that supports Web Speech API (e.g., Google Chrome).
 Internet connection for accessing external libraries and services.
